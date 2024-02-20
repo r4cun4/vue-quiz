@@ -1,4 +1,4 @@
-# vue-simple-calculator
+# Vue Quiz
 
 An application that simulates a simple quiz with multiple-choice questions.
 
