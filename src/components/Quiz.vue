@@ -4,14 +4,14 @@ import { ref } from 'vue'
 
 const questions = [
   {
-    question: "What is the capital of France?",
-    options: ["London", "Berlin", "Paris", "Rome"],
-    answer: "Paris",
+    question: "How many times Messi has won The Ballon d'Or trophy?",
+    options: ["8", "15", "3", "6"],
+    answer: "8",
   },
   {
-    question: "Which planet is closest to the sun?",
-    options: ["Earth", "Mars", "Venus", "Mercury"],
-    answer: "Mercury",
+    question: "How many times Messi has won the Champions league?",
+    options: ["2", "5", "4", "1"],
+    answer: "4",
   },
   // Add more questions as needed
 ];
