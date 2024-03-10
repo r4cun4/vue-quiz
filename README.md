@@ -33,3 +33,6 @@ npm run dev
 ```sh
 npm run build
 ```
+
+![image](https://github.com/r4cun4/vue-quiz/assets/77390217/6aa2270d-1f64-4cba-973f-bfd4bc5df0c9)
+
